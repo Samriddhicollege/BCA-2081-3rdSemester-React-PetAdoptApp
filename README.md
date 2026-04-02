@@ -1,6 +1,6 @@
 ## Project Title
 
-> *Smart Restaurant Management System (RMS) with React Frontend*
+> *Pet Adoption App*
 
 ---
 
@@ -23,20 +23,29 @@
 
 ## Project Overview
 
-> This project is a web-based Restaurant Management System developed using React for the frontend and Golang for the backend.
-> It allows restaurant staff to manage menus, process customer orders, and generate bills efficiently.
-> Customers can browse food items, add them to the cart, and place orders بسهولة.
-> The system also includes role-based access for admins and staff.
-> The main goal is to digitize restaurant operations and improve efficiency and user experience.
+What is the project?
+Ans: A React-based web application that helps users browse, search, and adopt pets from shelters.
+
+ What problem does it solve?
+Ans: Connects potential pet owners with adoptable animals, making the adoption process easy and accessible.
+
+ Who can use this app?
+Ans: Animal shelters, rescue organizations, and people looking to adopt pets.
+
+
 
 ---
 
 ## Objectives
 
-* Build a responsive React application
-* Implement real-world features (menu, cart, orders, etc.)
-* Understand frontend-backend integration
-* Apply clean UI/UX design principles
+
+1.   Browse available pets with detailed profiles.
+2.   Filter pets by type, breed, age, and size.
+3.   Search functionality for quick pet discovery..
+4.   Add pets to favorites (wish list).
+5.   View detailed pet information and adoption requirements.
+6.   Local Storage support to save favorites.
+
 
 ---
 
