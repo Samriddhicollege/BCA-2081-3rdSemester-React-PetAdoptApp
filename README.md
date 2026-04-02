@@ -128,7 +128,7 @@ go run main.go
 ## GitHub & Live Demo
 
 * **GitHub Repository:** https://github.com/Samriddhicollege/BCA-2081-3rdSemester-React-PetAdoptApp.git
-* **Live URL (if deployed):** 
+* **Live URL (if deployed):** bca-2081-3rd-semester-react-pet-ado.vercel.app
 
 ---
 
